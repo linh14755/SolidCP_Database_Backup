@@ -1,12 +1,12 @@
 
 Đây là file backup database của solid cp đã thiết lập sẵn server
 Tài khoản:
-(superadmin)
-serveradmin
-dragon@123
-(admin)
-admin
-dragon@123
++ (superadmin)
++ serveradmin
++ dragon@123
++ (admin)
++ admin
++ dragon@123
 ![image](https://user-images.githubusercontent.com/62316921/224648706-1bd797dd-a115-4b6d-af18-5adb03a4abac.png)
 - Thiết lập gồm 3 phần:
 + OS
